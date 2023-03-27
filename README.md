@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS + TailwindCSS + Storyblok Boilerplate
+
+This is a [Next.js](https://nextjs.org/) + Tailwind project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [`tailwindcss`](https://github.com/tailwindlabs/tailwindcss) and [`@storyblok/react`](https://github.com/storyblok/storyblok-react).
 
 ## Getting Started
 
@@ -8,8 +10,6 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
